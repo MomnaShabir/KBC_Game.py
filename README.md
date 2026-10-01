@@ -1,2 +1,2 @@
-# my-first-project
-My first GitHub repository for practice.
+KBC program 
+python practice
